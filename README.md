@@ -1,1 +1,1 @@
-# TrendsForJobs
+TrendsForJobs est une application web qui permet d'analyser le marché de l'emploi pour identifier quelles stacks ou technologies sont tendances. Elle aide les utilisateurs à rester à jour et à mieux comprendre les évolutions du marché.
